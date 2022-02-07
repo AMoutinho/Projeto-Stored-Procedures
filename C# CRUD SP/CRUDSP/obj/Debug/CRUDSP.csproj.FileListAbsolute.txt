@@ -1,0 +1,10 @@
+C:\Users\MOUTINHO\Desktop\C# CRUD SP\CRUDSP\bin\Debug\CRUDSP.exe.config
+C:\Users\MOUTINHO\Desktop\C# CRUD SP\CRUDSP\bin\Debug\CRUDSP.exe
+C:\Users\MOUTINHO\Desktop\C# CRUD SP\CRUDSP\bin\Debug\CRUDSP.pdb
+C:\Users\MOUTINHO\Desktop\C# CRUD SP\CRUDSP\obj\Debug\CRUDSP.csprojAssemblyReference.cache
+C:\Users\MOUTINHO\Desktop\C# CRUD SP\CRUDSP\obj\Debug\CRUDSP.frmCRUDSP.resources
+C:\Users\MOUTINHO\Desktop\C# CRUD SP\CRUDSP\obj\Debug\CRUDSP.Properties.Resources.resources
+C:\Users\MOUTINHO\Desktop\C# CRUD SP\CRUDSP\obj\Debug\CRUDSP.csproj.GenerateResource.cache
+C:\Users\MOUTINHO\Desktop\C# CRUD SP\CRUDSP\obj\Debug\CRUDSP.csproj.CoreCompileInputs.cache
+C:\Users\MOUTINHO\Desktop\C# CRUD SP\CRUDSP\obj\Debug\CRUDSP.exe
+C:\Users\MOUTINHO\Desktop\C# CRUD SP\CRUDSP\obj\Debug\CRUDSP.pdb
