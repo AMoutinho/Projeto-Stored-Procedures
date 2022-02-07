@@ -2,7 +2,9 @@
 
 Projeto desenvolvido em C# para aperfeiçoar os conhecimentos com stored procedures, utilizando em conjunto a linguagem C#.
 
-<img src="https://i.imgur.com/dgLCFTt.png" min-width="100px" align="center" alt="Computador">
+<div align="center">
+  <img src="https://i.imgur.com/dgLCFTt.png" height="450" width="650" alt="Computador">
+</div>
 
 ### 📋 Pré-requisitos
 
