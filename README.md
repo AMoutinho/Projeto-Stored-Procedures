@@ -1,4 +1,4 @@
-# CRUD Stored Procedures
+# Projeto Stored Procedures
 
 Projeto desenvolvido em C# com o intuito de aperfeiçoar os conhecimentos com stored procedures, utilizando em conjunto a linguagem C#, como forma de interface gráfica. O objetivo principal é focar na realização dos procedimentos armazenados, trabalhando via CRUD.  
 
