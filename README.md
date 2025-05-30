@@ -2,9 +2,9 @@
 
 Projeto desenvolvido em C# com o intuito de aperfeiçoar os conhecimentos com stored procedures, utilizando em conjunto a linguagem C#, como forma de interface gráfica. O objetivo principal é focar na realização dos procedimentos armazenados, trabalhando via CRUD.  
 
-<div align="center">
+<!--<div align="center">
   <img src="https://i.imgur.com/dgLCFTt.png" height="450" width="650" alt="Computador">
-</div>
+</div>-->
 
 ### 📋 Pré-requisitos para Executar
 
